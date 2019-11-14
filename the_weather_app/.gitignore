@@ -1,0 +1,7 @@
+*pyc
+venc
+.the_weather
+.venv
+*.sqlite3
+*pyc
+__pycache__
